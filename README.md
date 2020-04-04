@@ -1,2 +1,5 @@
 # 1. Introduction
->>This is compiled opencv library, including opencv and opencv_contrib.
+>>This depository is compiled opencv and  opencv_contrib library.
+
+# 2. More Resources
+- [Github link](https://github.com/lh9171338/Outline)
